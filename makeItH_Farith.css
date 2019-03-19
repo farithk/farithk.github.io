@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+
+#back {
+    background-image: url("altagamba-altagamba-199424-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100ch 100vh;
+    height: 100vh;
+    /*border: 1px solid red;*/
+    background-position: center;
+    padding-top: 20vh;
+}
+
+
+#title {
+    margin: auto;
+    clear: left;
+    /*border: 1px solid white;*/
+    
+}
+
+#title h1 {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#profileImage {
+    margin: auto;
+    width: 210px;
+    height: 210px;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+#image {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 50%;
+}
+
+#subtitle {
+    margin: auto;
+    /*border: 1px solid white;*/
+    width: 300px;
+}
+
+#subtitle h2 {
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-family: 'Quicksand', sans-serif;
+}
